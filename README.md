@@ -1,10 +1,18 @@
 <DOCTYPE! html>
 <html>
-h1 {center
-}
-h2 {center
-}
 <head>
+<style>
+body {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+}
+h2 {
+}
+
+
 <title>Acacia Elementary Gifted</title>
 </head>
 <body>
